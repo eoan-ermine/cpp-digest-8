@@ -14,7 +14,7 @@ C++ Дайджест №8 (8 июля – 14 июля 2024)
 
 ## 📝 Статьи
 
-1. [Understanding the inner workings of C++ smart pointers - The shared_ptr](https://andreasfertig.blog/2024/09/understanding-the-inner-workings-of-cpp-smart-pointers-the-shared_ptr/) — вам всегда было интересно, как устроен `std::shared_ptr` ([cppreference](https://en.cppreference.com/w/cpp/memory/shared_ptr)) внутри? Статья предлагает разбор минималистичной, но вполне себе полноценной его реализации.
+1. [Understanding the inner workings of C++ smart pointers - The shared_ptr](https://andreasfertig.blog/2024/09/understanding-the-inner-workings-of-cpp-smart-pointers-the-shared_ptr/) — вам всегда было интересно, как устроен `std::shared_ptr` ([cppreference](https://en.cppreference.com/w/cpp/memory/shared_ptr)) изнутри? Статья предлагает разбор минималистичной, но вполне себе полноценной его реализации.
 2. [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/) — Обзор свежепринятых в C++26 новинок: переменные-плейсхолдеры ([cppreference](https://en.cppreference.com/w/cpp/language/conflicting_declarations#Potentially-conflict_declarations)), форматированные строки в `static_assert` и другое.
 ```c++
 // Разве это не прекрасно, что мы можем написать так и на нас не будет ругаться компилятор?
